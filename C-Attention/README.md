@@ -1,1 +1,1 @@
-## C-Attention Code
+## C-Attention Model
